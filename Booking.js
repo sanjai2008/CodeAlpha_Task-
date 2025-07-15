@@ -1,1 +1,1 @@
-// Booking model schema
+// Booking page
